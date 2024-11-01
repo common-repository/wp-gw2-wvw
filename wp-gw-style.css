@@ -1,0 +1,40 @@
+.gw2wvw-info-table .wvw-percent {
+	display: block;
+	padding: 2px 7px;
+	border-radius:5px;
+	color:#fff;
+	box-sizing: border-box;
+}
+
+.gw2wvw-info-table .wvw-percent-red {
+	background-color: #dd514c;
+}
+
+.gw2wvw-info-table .wvw-percent-green {
+	background-color: #5eb95e;
+}
+
+.gw2wvw-info-table .wvw-percent-blue {
+	background-color: #0e90d2;
+}
+
+.gw2wvw-info-table .column-center {
+	text-align:center;
+}
+
+.gw2wvw-info-table .wvw-server-linked, 
+.gw2wvw-info-table .wvw-server-linked-name {
+	font-size: 0.8em;
+	color: #999;
+}
+
+.gw2wvw-info-table .wvw-home-icon {
+	/* 
+		Icons made by Dave Gandy
+		https://www.flaticon.com/authors/dave-gandy
+	*/
+	display: inline-block;
+	width:16px;
+	height:16px;
+	background: url("home.png") no-repeat;
+}
